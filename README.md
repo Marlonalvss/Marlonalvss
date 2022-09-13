@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1013933622576828507/1019361843988418621/MARLON_ALVES.gif?width=947&height=473">
+<img src="/assets/MARLON-ALVES.gif">
  <a href="https://github.com/Marlonalvss">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marlonalvss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonalvss&layout=compact&langs_count=7&theme=algolia"/>
