@@ -1,7 +1,5 @@
 <img src="/assets/MarlonAlves2.gif">
  <a href="https://github.com/Marlonalvss">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marlonalvss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonalvss&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marlon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,7 +7,6 @@
   <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marlon-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
   <img align="center" alt="Marlon-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- <img align="center" alt="Marlon-Vue" height="40" width="40" src="https://vuejsbr-docs-next.netlify.app/logo.png"
 </div>
 
  ##
